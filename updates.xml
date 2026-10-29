@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
+  <app appid='YOUR_32_CHAR_EXTENSION_ID'>
+    <updatecheck codebase='https://github.com/erik-aru/tools/raw/refs/heads/main/xml_test.crx' version='1.0.0' />
+  </app>
+</gupdate>
